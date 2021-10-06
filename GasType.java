@@ -1,0 +1,4 @@
+enum GasType{
+
+	HP,BHARAT,INDIAN,HIDUSTAN;
+}
